@@ -1,0 +1,23 @@
+LITHCODE,ROCK DESCRIPTION,REGIME
+"RAL","Alluvium","D2"
+"RCA","Calcrete","?"
+"RCN","Nodular Calcrete","?"
+"RCY","Clays (undifferentiated)","D4"
+"RFE","Ferricrete","R2 or D2 depending on location"
+"RGO","Gossan","R4"
+"RGR","Gravel","D2"
+"RLD","Lateritic Duricrust","R2"
+"RLN","Lateritic Residuum - Nodular","R2"
+"RLP","Lateritic Residuum - Pisolithic","R2"
+"RLT","Transported Laterite","D3"
+"RMB","Mbuga","D4"
+"RMC","Mottled Clays","E1"
+"RMU","Mullock",
+"RPC","Pallid Clays/Clay Zone","E2"
+"RRS","Residual Colluvium/Soil","R1"
+"RRZ","Rubble Zone","?"
+"RSI","Silcrete","?"
+"RSP","Saprolite *","E3"
+"RSR","Saprock *","E3"
+"RTA","Tailings",
+"RTS","Transported Colluvium/Soil","D1"

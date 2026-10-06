@@ -1,0 +1,6 @@
+Database,Table,SAMPLE,Ni,NiRanking,AnomalyString
+"C:\GEOCRAFT\develop\ProductionGEOCHEM97.mdb","DRILL","A001",100,5,"Ni5"
+"C:\GEOCRAFT\develop\ProductionGEOCHEM97.mdb","DRILL","A002",5000,2,"Ni2"
+"C:\GEOCRAFT\develop\ProductionGEOCHEM97.mdb","DRILL","A003",2500,4,"Ni4"
+"C:\GEOCRAFT\develop\ProductionGEOCHEM97.mdb","DRILL","B007",3000,3,"Ni3"
+"C:\GEOCRAFT\develop\ProductionGEOCHEM97.mdb","DRILL","C004",67000,1,"Ni1"

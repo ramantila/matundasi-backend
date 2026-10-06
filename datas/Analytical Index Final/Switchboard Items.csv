@@ -1,0 +1,5 @@
+SwitchboardID,ItemNumber,ItemText,Command,Argument
+1,0,"MAIN INDEX",0,
+1,1,"INDEX",2,"ANALYTICAL INDEX FINAL"
+2,0,"MAIN MENU FOR AIT",0,"Default"
+2,1,"New Switchboard Command",2,"MAIN MENU FOR AIT"
